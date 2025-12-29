@@ -2,7 +2,7 @@
 
 ## Research Question
 
-**Can we accurately detect GenAI adoption in startups using only their Crunchbase profile descriptions, without requiring web searches or external data?**
+**Can OpenAI LLMs accurately detect GenAI adoption in startups' internal business processes using only their Crunchbase profile descriptions, without requiring web search or deep research API?**
 
 ## Overview
 
