@@ -2,7 +2,7 @@
 
 ## Research Question
 
-**Can we accurately detect Generative AI (GenAI) adoption in startups using only their Crunchbase profile descriptions, without requiring web searches or external data?**
+**Can we accurately detect GenAI adoption in startups using only their Crunchbase profile descriptions, without requiring web searches or external data?**
 
 ## Overview
 
@@ -67,7 +67,7 @@ This project addresses key questions in startup technology adoption research:
 
 1. **Data Efficiency:** Can we classify technology adoption without expensive web scraping?
 2. **LLM Accuracy:** How reliable are LLMs for structured classification tasks?
-3. **Adoption Patterns:** What business functions show highest GenAI adoption rates?
+3. **Adoption Patterns:** What business functions show the highest GenAI adoption rates?
 4. **Confidence Calibration:** How do different assessment strictness levels affect results?
 
 ## Results
